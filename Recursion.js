@@ -1,4 +1,4 @@
-//Write a function that will determine if a number is a "Happy Number or not"
+//Write a function that will determine if a number is a "Happy Number" or not
 
 function isHappyNumber(numberToTest){
   var numberArray = numberToTest.toString().split('');
